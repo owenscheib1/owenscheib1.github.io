@@ -35,7 +35,7 @@
         </style>
     </head>
     <body>
-        Dr. Eleanor Gaye
+        <p Dr. Eleanor Gaye
 Awesome Science faculty
 University of Awesome
 Bobtown, CA 99999,
@@ -98,5 +98,6 @@ Yours sincerely,
 Dr Eleanor Gaye
 
 University of Awesome motto: "Be awesome to each other." -- Bill S Preston, Esq
+    </p>
     </body>
 </html>
